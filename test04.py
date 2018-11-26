@@ -4,6 +4,4 @@
 a = 'afgerefwe'
 print(len(a))
 print('我是第一帅')
-print('我是第二帅')
-print('我师弟三帅')
-
+print('第四次修改')
