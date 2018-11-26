@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e3dd7ce-357b-489a-9f3a-7a9c8df940f8" name="Default Changelist" comment="" />
+    <list default="true" id="0e3dd7ce-357b-489a-9f3a-7a9c8df940f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Face_recognition/James.jpeg" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +72,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="12" />
+          <entry key="py" value="13" />
           <entry key="sql" value="4" />
           <entry key="sqlite_master" value="1" />
         </counts>
@@ -78,7 +80,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Database Element" value="1" />
-          <entry key="Python" value="12" />
+          <entry key="Python" value="13" />
           <entry key="SQL" value="1" />
           <entry key="Scratch" value="3" />
         </counts>
@@ -99,7 +101,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test01.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
@@ -109,6 +111,11 @@
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Face_recognition/test01.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -178,7 +185,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="120" />
     <option name="y" value="45" />
     <option name="width" value="1572" />
@@ -196,6 +203,11 @@
             <path>
               <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled2" type="462c0819:PsiDirectoryNode" />
+              <item name="Face_recognition" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -368,7 +380,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49723756" visible="true" weight="0.24494745" />
       <window_info id="Structure" order="1" sideWeight="0.50276244" side_tool="true" weight="0.14874697" />
@@ -497,6 +508,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Face_recognition/test01.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
